@@ -1,6 +1,10 @@
 import streamlit as st
 import io
-from utils.resume_parser import ResumeParser
+from utils import resume_parser
+
+
+
+
 from utils.text_analyzer import TextAnalyzer
 from utils.utils.ats_checker import ATSChecker
 from utils.report_generator import ReportGenerator
