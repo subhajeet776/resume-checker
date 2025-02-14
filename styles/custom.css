@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Lato:wght@400;700&display=swap');
+
+.stApp {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.success-text {
+    color: #00A550;
+}
+
+.error-text {
+    color: #FF4444;
+}
+
+.score-card {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.progress-indicator {
+    height: 8px;
+    background-color: #F5F5F5;
+    border-radius: 4px;
+}
+
+.upload-section {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    border: 2px dashed #0066CC;
+}
